@@ -8,8 +8,7 @@ Guide
    :caption: Contents:
 
    license
-   dumbtest
-
+   landingpage
 
 
 Indices and tables

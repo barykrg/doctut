@@ -52,4 +52,11 @@ html_theme = 'alabaster'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_css_files = [
+    "https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css","./build/html/_static/landingPage/style.css"
+]
+html_js_files = [
+    'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js',"./build/html/_static/landingPage/main.js"
+]
+html_additional_pages = {'index': 'index.html'}
 
