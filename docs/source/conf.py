@@ -58,5 +58,5 @@ html_css_files = [
 html_js_files = [
     'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js',"./build/html/_static/landingPage/main.js"
 ]
-html_additional_pages = {'index': 'index.html'}
+html_additional_pages = {'choose': 'index.html'}
 
