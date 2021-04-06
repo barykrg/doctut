@@ -1,10 +1,14 @@
 
 Simple Doctut Tutorial
 ======================
-
+Guide
+^^^^^
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   license
+   dumbtest
 
 
 
